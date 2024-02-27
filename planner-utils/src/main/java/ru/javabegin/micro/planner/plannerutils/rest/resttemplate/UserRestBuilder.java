@@ -9,6 +9,7 @@ import org.springframework.web.client.RestTemplate;
 import ru.javabegin.micro.planner.plannerentity.entity.User;
 
 @Component
+
 // спец. класс для вызова микросервисов пользователей с помощью RestTemplate
 public class UserRestBuilder {
 

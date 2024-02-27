@@ -4,10 +4,9 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 import ru.javabegin.micro.planner.plannerentity.entity.Task;
-
-import jakarta.transaction.Transactional;
 import ru.javabegin.micro.planner.plannertodo.repo.TaskRepository;
 
+import jakarta.transaction.Transactional;
 import java.util.Date;
 import java.util.List;
 

@@ -8,7 +8,6 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 import ru.javabegin.micro.planner.plannerentity.entity.User;
-import ru.javabegin.micro.planner.plannerentity.entity.User;
 
 import java.util.Date;
 
