@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import ru.javabegin.micro.planner.plannerentity.entity.Stat;
-import ru.javabegin.micro.planner.todo.service.StatService;
+import ru.javabegin.micro.planner.plannertodo.service.StatService;
 
 
 /*

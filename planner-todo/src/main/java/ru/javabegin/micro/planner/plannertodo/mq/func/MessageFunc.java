@@ -3,7 +3,7 @@ package ru.javabegin.micro.planner.plannertodo.mq.func;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.Message;
-import ru.javabegin.micro.planner.todo.service.TestDataService;
+import ru.javabegin.micro.planner.plannertodo.service.TestDataService;
 
 import java.util.function.Consumer;
 
